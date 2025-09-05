@@ -12,6 +12,7 @@ Key Features:
 
 The key features include:
 1. AI Cars for Traffic simulation
-2. Traffic lights for real time System
-3. Minimap for convinence of the user to observe the Location and path that AI is choosing to go 
+2. Tangled roads for variety of Destinations
+3. 3D Randered Trees with different sizes and green shades
 4. 3D Randered houses
+5. All 3D objects Randered by Frustum Culling
